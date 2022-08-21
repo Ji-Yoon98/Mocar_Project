@@ -8,15 +8,18 @@
 > 팀 프로젝트(총 6명, 팀장)
 
 # ✨ 사용기술
+```Back-end```
 - JSP MVC2<br>
 - JAVA 8<br>
 - ApacheTomcat 8.5v<br>
 - Oracle DB<br>
-- HTML5 & CSS3<br>
-- JavaScript & JQuery<br>
 - JSON<br>
 - MyBatis<br>
-- JSTL.jar
+- JSTL.jar<br>
+
+```Front-end```
+- HTML5 & CSS3<br>
+- JavaScript & JQuery<br>
 
 # ✨프로젝트 개요
 - 코로나로 지친 마음을 달래기 위해 여행을 가는 사람들이 많아, 여행을 갈때 렌트카를 이용한다는 생각이 들어 제작하게 되었습니다.
