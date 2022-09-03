@@ -39,5 +39,11 @@
 
 ### 2. 로그인
 ![로그인](https://user-images.githubusercontent.com/97427387/188269543-e80170ca-4043-4c3c-b6c0-1cce95310fba.gif)
+- 로그인 버튼 클릭시 모달창
+- DB에 저장된 아이디와 비밀번호가 맞다면 로그인 성공
+- 틀리다면 로그인 실패 alert창이 뜸
+
+### 3. ID찾기
+![ID찾기](https://user-images.githubusercontent.com/97427387/188269760-2a96891a-995f-4382-b77b-5e2b1284eae7.gif)
 - 
 
