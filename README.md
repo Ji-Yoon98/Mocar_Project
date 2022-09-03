@@ -45,5 +45,23 @@
 
 ### 3. ID찾기
 ![ID찾기](https://user-images.githubusercontent.com/97427387/188269760-2a96891a-995f-4382-b77b-5e2b1284eae7.gif)
-- 
+- DB에 저장된 이름과 이메일이 일치한 회원의 아이디를 alert창으로 알려줌 
+- 이름과 이메일이 맞지 않거나 없다면 아이디 찾기 실패 alert창이 뜸
+
+### 4. 회원정보수정
+![회원정보수정](https://user-images.githubusercontent.com/97427387/188269864-d56f3e8e-e176-4609-b638-ae997de38385.gif)
+
+### 5. 회원탈퇴
+![회원탈퇴](https://user-images.githubusercontent.com/97427387/188269872-d2d9a7dd-579a-4681-b3c6-95b5b1e4e886.gif)
+
+### 6. 예약하기
+![예약하기](https://user-images.githubusercontent.com/97427387/188269881-080a6984-4846-4beb-b8bf-417a3b9a1f01.gif)
+
+### 7. 게시판
+![게시판](https://user-images.githubusercontent.com/97427387/188269909-cd7324ce-bba7-4cab-ba12-60ce1ea11259.gif)
+
+
+### 4. 문의하기
+![문의하기](https://user-images.githubusercontent.com/97427387/188269911-2d3a0994-1db8-4621-ab4c-f2b192630364.gif)
+
 
