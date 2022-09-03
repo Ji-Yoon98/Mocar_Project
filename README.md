@@ -21,6 +21,16 @@
 - HTML5 & CSS3<br>
 - JavaScript & JQuery<br>
 
-# ✨프로젝트 개요
-- 코로나로 지친 마음을 달래기 위해 여행을 가는 사람들이 많아, 여행을 갈때 렌트카를 이용한다는 생각이 들어 제작하게 되었습니다.
-- 
+# ✨ 설계
+
+### 흐름도
+![흐름도](https://user-images.githubusercontent.com/97427387/185802512-953f3327-00c3-4daf-a237-a3d89c875825.png)
+
+### ERD
+![ERD](https://user-images.githubusercontent.com/97427387/185803251-acf26ccd-c7cf-4093-9829-c69ca51fab28.png)
+
+
+# ✨ 화면구성 &amp; 기능
+### 1. 회원가입
+![회원가입](https://user-images.githubusercontent.com/97427387/185804369-b34f2014-7c80-4bc7-9e38-ceb6909e69a9.gif)
+> 
