@@ -85,3 +85,17 @@
 - 이름, 이메일, 내용을 입력하고 문의하기 버튼 클릭시 지정된 관리자 이메일로 발송
 - 구글 스프레드 시트 이용
 
+# ✨ 트러블슈팅
+- 마이페이지 회원탈퇴 기능을 alert창으로 하기 위해 prompt를 이용 -> 실패
+- 계속된 실패로 비밀번호 확인을 위한 모달창을 띄운 후 ajax을 이용하여 해결
+
+<details>
+<summary>회원탈퇴 기능</summary>
+  
+![image](https://user-images.githubusercontent.com/97427387/188305641-c5ce0bd8-edd6-484d-b850-ff1429f88d43.png)
+  
+
+</details>
+
+
+
