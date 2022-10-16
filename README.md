@@ -91,8 +91,45 @@
 
 <details>
 <summary>회원탈퇴 기능</summary>
-  
-![image](https://user-images.githubusercontent.com/97427387/188305641-c5ce0bd8-edd6-484d-b850-ff1429f88d43.png)
+
+<br>
+
+```java
+
+function chkRemove(userpw){
+	let frm = document.deleteForm;
+	if (userpw == "") {
+		alert("비밀번호를 입력해주세요.");
+		return false;
+	} else {
+		// ajax 통신
+		let xhr = new XMLHttpRequest();
+		xhr.open("GET", "curpw.jsp?userpw=" + userpw, true);
+		xhr.send();
+		xhr.onreadystatechange = function() {
+			if (xhr.readyState == XMLHttpRequest.DONE && xhr.status == 200) {
+				// alert(xhr.responseText);
+
+				if (xhr.responseText.trim() == "ok") {
+					alert("비밀번호가 일치하지 않습니다.");
+				} else {
+				 	var removeId = confirm("정말 탈퇴하시겠습니까?");
+				 	var input = document.getElementById("pwInput");
+				 	if(removeId){
+				 		alert("탈퇴가 완료되었습니다.");
+				 		frm.submit();
+				 	}else{
+				 		document.getElementById("deleteId_box").style.display="none"
+				 		input.value = null;
+				 	}
+				}
+			}
+		}
+
+	}
+}
+
+```
   
 
 </details>
